@@ -134,12 +134,6 @@ class Developer:
 
 </div>
 
-### 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmikghaskata&theme=tokyo-night&hide_border=true&area=true&custom_title=Dharmik's%20Contribution%20Graph" width="100%" alt="activity graph"/>
-</div>
-
 ---
 
 ## 🐍 Contribution Snake
@@ -152,15 +146,6 @@ class Developer:
 </picture>
 </div>
 
-> 🛠️ Snake dikhane ke liye `.github/workflows/snake.yml` file add karni hogi (neeche setup instructions hain).
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dharmikghaskata&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies"/>
-</div>
 
 ---
 
